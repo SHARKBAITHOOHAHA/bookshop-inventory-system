@@ -17,7 +17,6 @@ This Python program implements a simple inventory system for a bookshop. The sys
    - Display a welcome screen with the bookshop's name and the names of all students who contributed to the project.
 
 2. **Menu Options:**
-   - The system provides the following menu options:
       1. Read Data
       2. List Data
       3. Search by Title
