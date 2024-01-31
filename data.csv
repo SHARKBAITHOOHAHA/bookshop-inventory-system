@@ -1,0 +1,10 @@
+BookID,Title,Author,Category,Quantity,Unit Price,Total Price
+1,Anna Karenina,Leo Tolstoy,Classics,3,12.99,38.97
+2,The Notebook,Nicholas Sparks,Romance,8,12.99,103.92
+3,Crime and Punishment,Fyodor Dostoevsky,Classics,10,20.0,200.0
+4,The History of Ancient World,Susan Wise Bauer,History,8,14.99,119.92
+5,Pride and Prejudice,Jane Austen,Romance,12,17.99,215.88
+6,The Lord of the Rings,J. R. R. Tolkien,Fiction,112,14.99,1678.88
+7,1984,George Orwell,Classics,50,39.99,1999.5
+8,To Kill a Mockingbird,Harper Lee,Classics,3,15.0,45.0
+9,Fahrenheit 451,Ray Bradbury,Classics,5,16.0,80.0
